@@ -25,11 +25,15 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=663399)
 
-**Backend**
+**Backend & Data**
 
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=FFFFFF)
+![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
 ![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)
 
 **Mobile & Tools**
@@ -39,10 +43,19 @@
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 
 <br/>
 
 **Featured Projects**
+
+| Project | What it shows | Stack |
+| --- | --- | --- |
+| **UKH Garage** <br/>`Private repository` | Smart campus parking assistance for the University of Kurdistan Hewler. Includes UKH-only email verification, vehicle registration, plate search, move requests with urgency/context, photo evidence, real-time activity tracking, safety controls, and admin moderation. | Flutter, Dart, Provider, Firebase Auth, Firestore, Storage, Cloud Functions, SendGrid, ALPR/YOLO integration |
+| **ElecVendors Dashboard** <br/>`Private repository` | Vendor management dashboard for ElecMall with bilingual Arabic/English support and RTL/LTR layouts. Vendors manage products, orders, inventory, pricing, settlements, notifications, delivery prices, warranty, reports, and marketing campaigns with secure API/auth patterns. | Next.js 16, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, JWT httpOnly cookies, Zod, Tailwind CSS, Docker Compose |
+| [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace with frontend and backend packages | JavaScript, Node.js, Express |
+
+**Public Practice**
 
 | Project | What it shows | Stack |
 | --- | --- | --- |
@@ -51,7 +64,6 @@
 | [Amazon](https://github.com/aliibarznji/Amazon) | Amazon-style e-commerce clone | Next.js, React, TypeScript |
 | [Electro](https://github.com/aliibarznji/Electro) | Electronics storefront and product browsing | Next.js, React, TypeScript, Tailwind |
 | [Apple-page](https://github.com/aliibarznji/Apple-page) | Apple-style landing page practice | Next.js, React, Tailwind |
-| [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace with frontend and backend packages | JavaScript, Node.js, Express |
 
 <br/>
 
