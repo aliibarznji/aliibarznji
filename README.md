@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Ali;Frontend+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Flutter+%E2%80%A2+Dart+%E2%80%A2+Mobile+Practice;Building+clean+interactive+interfaces" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=720&lines=Hey%2C+I'm+Ali;Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+Express+%E2%80%A2+Backend+APIs;Building+clean+interactive+interfaces" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -25,12 +25,17 @@
 ![HTML5](https://img.shields.io/badge/HTML5-0d1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-0d1117?style=flat-square&logo=css&logoColor=663399)
 
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST_API-0d1117?style=flat-square&logo=fastapi&logoColor=009688)
+![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)
+
 **Mobile & Tools**
 
 ![Dart](https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2)
 ![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933)
-![npm](https://img.shields.io/badge/npm-0d1117?style=flat-square&logo=npm&logoColor=CB3837)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=FFFFFF)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
@@ -46,7 +51,7 @@
 | [Amazon](https://github.com/aliibarznji/Amazon) | Amazon-style e-commerce clone | Next.js, React, TypeScript |
 | [Electro](https://github.com/aliibarznji/Electro) | Electronics storefront and product browsing | Next.js, React, TypeScript, Tailwind |
 | [Apple-page](https://github.com/aliibarznji/Apple-page) | Apple-style landing page practice | Next.js, React, Tailwind |
-| [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace | JavaScript, Frontend, Backend |
+| [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace with frontend and backend packages | JavaScript, Node.js, Express |
 
 <br/>
 
