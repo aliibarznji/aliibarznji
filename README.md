@@ -7,7 +7,7 @@
 <br /><br />
 
 [![GitHub](https://img.shields.io/badge/GitHub-aliibarznji-0d1117?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/aliibarznji)
-[![Repositories](https://img.shields.io/badge/Public_repos-11-0d1117?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/aliibarznji?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Public_repos-12-0d1117?style=flat-square&logo=github&logoColor=38BDF8)](https://github.com/aliibarznji?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=aliibarznji&style=flat-square&color=38BDF8&label=profile+views)](https://github.com/aliibarznji)
 
 </div>
