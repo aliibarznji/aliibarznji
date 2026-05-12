@@ -69,8 +69,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aliibarznji&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" alt="Ali's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aliibarznji&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" alt="Ali's top languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliibarznji&theme=github_dark" alt="Ali's GitHub stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliibarznji&theme=github_dark" alt="Ali's top languages" />
 
 <br/><br/>
 
