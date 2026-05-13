@@ -78,7 +78,7 @@
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/aliibarznji/aliibarznji/output/snake.svg" alt="Ali's contribution animation" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=aliibarznji&custom_title=Ali%27s%20Contribution%20Activity&bg_color=0d1117&color=00d4ff&line=00d4ff&point=ffffff&area=true&area_color=00d4ff&hide_border=true&radius=8&height=300" alt="Ali's contribution activity graph" />
 
 </div>
 
