@@ -90,25 +90,6 @@
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img src="./assets/taskflow-api.svg" width="100%" alt="TaskFlow API animated project preview" />
-    </td>
-    <td width="66%">
-      <h3><a href="https://github.com/aliibarznji/To-do-list-">TaskFlow Workspace</a></h3>
-      <p><strong>Public repository</strong> &middot; Full-stack focus flow and to-do workspace with frontend and backend packages.</p>
-      <p>Project and task management foundation built around API structure, workspace flow, and backend/frontend separation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
-        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
-        <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logo=stackblitz&logoColor=00D4FF" alt="Full stack" />
-      </p>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <div align="center">
