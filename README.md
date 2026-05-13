@@ -55,16 +55,6 @@
 | **ElecVendors Dashboard** <br/>`Private repository` | Vendor management dashboard for ElecMall with bilingual Arabic/English support and RTL/LTR layouts. Vendors manage products, orders, inventory, pricing, settlements, notifications, delivery prices, warranty, reports, and marketing campaigns with secure API/auth patterns. | Next.js 16, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, JWT httpOnly cookies, Zod, Tailwind CSS, Docker Compose |
 | [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace with frontend and backend packages | JavaScript, Node.js, Express |
 
-**Public Practice**
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [Filtering](https://github.com/aliibarznji/Filtering) | Shoe shopping interface with category filters and smooth product browsing | React, JavaScript, Vite |
-| [ChatBot](https://github.com/aliibarznji/ChatBot) | Chat UI with a mini-game and date helper | React, JavaScript, Vite |
-| [Amazon](https://github.com/aliibarznji/Amazon) | Amazon-style e-commerce clone | Next.js, React, TypeScript |
-| [Electro](https://github.com/aliibarznji/Electro) | Electronics storefront and product browsing | Next.js, React, TypeScript, Tailwind |
-| [Apple-page](https://github.com/aliibarznji/Apple-page) | Apple-style landing page practice | Next.js, React, Tailwind |
-
 <br/>
 
 <div align="center">
