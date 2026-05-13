@@ -49,11 +49,65 @@
 
 **Featured Projects**
 
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| **UKH Garage** <br/>`Private repository` | Smart campus parking assistance for the University of Kurdistan Hewler. Includes UKH-only email verification, vehicle registration, plate search, move requests with urgency/context, photo evidence, real-time activity tracking, safety controls, and admin moderation. | Flutter, Dart, Provider, Firebase Auth, Firestore, Storage, Cloud Functions, SendGrid, ALPR/YOLO integration |
-| **ElecVendors Dashboard** <br/>`Private repository` | Vendor management dashboard for ElecMall with bilingual Arabic/English support and RTL/LTR layouts. Vendors manage products, orders, inventory, pricing, settlements, notifications, delivery prices, warranty, reports, and marketing campaigns with secure API/auth patterns. | Next.js 16, React, TypeScript, Node.js, Express, PostgreSQL, Prisma, JWT httpOnly cookies, Zod, Tailwind CSS, Docker Compose |
-| [To-do-list-](https://github.com/aliibarznji/To-do-list-) | Full-stack focus flow and to-do workspace with frontend and backend packages | JavaScript, Node.js, Express |
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./assets/ukh-garage.svg" width="100%" alt="UKH Garage animated project preview" />
+    </td>
+    <td width="66%">
+      <h3>UKH Garage</h3>
+      <p><strong>Private repository</strong> &middot; Smart campus parking assistance for the University of Kurdistan Hewler.</p>
+      <p>UKH-only email verification, vehicle registration, plate search, urgent move requests, photo evidence, real-time activity tracking, safety controls, and admin moderation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
+        <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
+        <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
+        <img src="https://img.shields.io/badge/Cloud_Functions-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Cloud Functions" />
+        <img src="https://img.shields.io/badge/ALPR%2FYOLO-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="ALPR/YOLO" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./assets/elecvendors-dashboard.svg" width="100%" alt="ElecVendors animated dashboard preview" />
+    </td>
+    <td width="66%">
+      <h3>ElecVendors Dashboard</h3>
+      <p><strong>Private repository</strong> &middot; Bilingual vendor management dashboard for ElecMall with Arabic/English and RTL/LTR support.</p>
+      <p>Vendors manage products, orders, inventory, pricing, settlements, notifications, delivery prices, warranty, reports, and marketing campaigns through a secure full-stack system.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-0d1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
+        <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
+        <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="34%" align="center">
+      <img src="./assets/taskflow-api.svg" width="100%" alt="TaskFlow API animated project preview" />
+    </td>
+    <td width="66%">
+      <h3><a href="https://github.com/aliibarznji/To-do-list-">TaskFlow Workspace</a></h3>
+      <p><strong>Public repository</strong> &middot; Full-stack focus flow and to-do workspace with frontend and backend packages.</p>
+      <p>Project and task management foundation built around API structure, workspace flow, and backend/frontend separation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/Node.js-0d1117?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
+        <img src="https://img.shields.io/badge/Full--Stack-0d1117?style=flat-square&logo=stackblitz&logoColor=00D4FF" alt="Full stack" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 

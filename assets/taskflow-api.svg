@@ -1,0 +1,41 @@
+<svg width="420" height="250" viewBox="0 0 420 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="250" rx="18" fill="#0d1117"/>
+  <rect x="1" y="1" width="418" height="248" rx="17" stroke="#1f6feb" stroke-opacity=".35"/>
+  <circle cx="76" cy="54" r="42" fill="#00d4ff" opacity=".09"/>
+  <circle cx="332" cy="192" r="50" fill="#7c3aed" opacity=".11"/>
+
+  <rect x="42" y="42" width="336" height="138" rx="14" fill="#111827" stroke="#26364f"/>
+  <rect x="64" y="66" width="80" height="92" rx="10" fill="#0b1220"/>
+  <rect x="170" y="66" width="80" height="92" rx="10" fill="#0b1220"/>
+  <rect x="276" y="66" width="80" height="92" rx="10" fill="#0b1220"/>
+  <text x="83" y="88" fill="#00d4ff" font-size="13" font-family="Arial, sans-serif" font-weight="700">TODO</text>
+  <text x="187" y="88" fill="#f59e0b" font-size="13" font-family="Arial, sans-serif" font-weight="700">DOING</text>
+  <text x="300" y="88" fill="#10b981" font-size="13" font-family="Arial, sans-serif" font-weight="700">DONE</text>
+
+  <g>
+    <rect x="76" y="105" width="56" height="18" rx="5" fill="#1f2937"/>
+    <rect x="76" y="130" width="45" height="18" rx="5" fill="#1f2937"/>
+    <rect x="182" y="105" width="56" height="18" rx="5" fill="#1f2937"/>
+    <rect x="288" y="105" width="56" height="18" rx="5" fill="#1f2937"/>
+    <rect x="288" y="130" width="44" height="18" rx="5" fill="#1f2937"/>
+  </g>
+
+  <g>
+    <circle cx="96" cy="138" r="6" fill="#00d4ff"/>
+    <path d="M96 138C136 190 206 190 228 138C248 91 296 88 316 114" stroke="#00d4ff" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 10" opacity=".85"/>
+    <circle r="7" fill="#ffffff">
+      <animateMotion dur="4s" repeatCount="indefinite" path="M96 138C136 190 206 190 228 138C248 91 296 88 316 114"/>
+    </circle>
+  </g>
+
+  <g transform="translate(63 192)">
+    <rect x="0" y="0" width="90" height="26" rx="13" fill="#162033" stroke="#26364f"/>
+    <circle cx="18" cy="13" r="5" fill="#10b981">
+      <animate attributeName="opacity" values=".35;1;.35" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="31" y="17" fill="#c9d1d9" font-size="12" font-family="Arial, sans-serif">API live</text>
+  </g>
+
+  <text x="30" y="222" fill="#f8fafc" font-size="24" font-family="Arial, sans-serif" font-weight="700">TaskFlow API</text>
+  <text x="30" y="240" fill="#8b949e" font-size="13" font-family="Arial, sans-serif">Full-stack task workspace</text>
+</svg>
