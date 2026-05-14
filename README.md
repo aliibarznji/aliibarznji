@@ -8,7 +8,6 @@
 
 [![GitHub](https://img.shields.io/badge/aliibarznji-0d1117?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/aliibarznji)
 [![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00D4FF)](https://ali-portfolio-one-rust.vercel.app/)
-[![Repositories](https://img.shields.io/badge/public_repos-13-0d1117?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/aliibarznji?tab=repositories)
 [![Profile Views](https://komarev.com/ghpvc/?username=aliibarznji&style=flat-square&color=00D4FF&label=profile+views)](https://github.com/aliibarznji)
 
 </div>
