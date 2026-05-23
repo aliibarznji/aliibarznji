@@ -103,7 +103,7 @@
 
 <br/><br/>
 
-<img width="98%" src="./assets/contribution-quest.svg" alt="Ali's contribution quest game card" />
+<img width="98%" src="https://raw.githubusercontent.com/aliibarznji/aliibarznji/output/snake.svg" alt="Snake game eating Ali's GitHub contribution graph" />
 
 </div>
 
