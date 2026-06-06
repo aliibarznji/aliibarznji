@@ -52,14 +52,6 @@
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliibarznji&theme=github_dark" alt="Ali's GitHub stats" />
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliibarznji&theme=github_dark" alt="Ali's top languages" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=aliibarznji&theme=tokyonight-duo&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=ff6e6e&currStreakLabel=00D4FF" alt="Ali's contribution streak" />
-
-<br/><br/>
-
-<img width="98%" src="https://raw.githubusercontent.com/aliibarznji/aliibarznji/output/snake.svg" alt="Snake game eating Ali's GitHub contribution graph" />
-
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" />
