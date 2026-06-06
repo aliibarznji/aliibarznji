@@ -47,51 +47,6 @@
 
 <br/>
 
-**Featured Projects**
-
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img src="./assets/ukh-garage.svg" width="100%" alt="UKH Garage animated project preview" />
-    </td>
-    <td width="66%">
-      <h3>UKH Garage</h3>
-      <p><strong>Private repository</strong> &middot; Smart campus parking assistance for the University of Kurdistan Hewler.</p>
-      <p>UKH-only email verification, vehicle registration, plate search, urgent move requests, photo evidence, real-time activity tracking, safety controls, and admin moderation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-0d1117?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter" />
-        <img src="https://img.shields.io/badge/Dart-0d1117?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart" />
-        <img src="https://img.shields.io/badge/Firebase-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase" />
-        <img src="https://img.shields.io/badge/Cloud_Functions-0d1117?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Cloud Functions" />
-        <img src="https://img.shields.io/badge/ALPR%2FYOLO-0d1117?style=flat-square&logo=opencv&logoColor=5C3EE8" alt="ALPR/YOLO" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td width="34%" align="center">
-      <img src="./assets/elecvendors-dashboard.svg" width="100%" alt="ElecVendors animated dashboard preview" />
-    </td>
-    <td width="66%">
-      <h3>ElecVendors Dashboard</h3>
-      <p><strong>Private repository</strong> &middot; Bilingual vendor management dashboard for ElecMall with Arabic/English and RTL/LTR support.</p>
-      <p>Vendors manage products, orders, inventory, pricing, settlements, notifications, delivery prices, warranty, reports, and marketing campaigns through a secure full-stack system.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-0d1117?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-        <img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-        <img src="https://img.shields.io/badge/Express-0d1117?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express" />
-        <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-        <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=FFFFFF" alt="Prisma" />
-        <img src="https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliibarznji&theme=github_dark" alt="Ali's GitHub stats" />
