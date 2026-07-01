@@ -4,12 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=720&lines=Ali;Full-stack;DevOps;SOC" alt="Typing SVG" />
 
-<br/><br/>
-
-[![GitHub](https://img.shields.io/badge/aliibarznji-0d1117?style=flat-square&logo=github&logoColor=00D4FF)](https://github.com/aliibarznji)
-[![Portfolio](https://img.shields.io/badge/portfolio-0d1117?style=flat-square&logo=vercel&logoColor=00D4FF)](https://ali-portfolio-one-rust.vercel.app/)
-[![Profile Views](https://komarev.com/ghpvc/?username=aliibarznji&style=flat-square&color=00D4FF&label=profile+views)](https://github.com/aliibarznji)
-
 </div>
 
 <br/>
