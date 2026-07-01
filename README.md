@@ -45,13 +45,4 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 
-<br/>
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aliibarznji&theme=github_dark" alt="Ali's GitHub stats" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aliibarznji&theme=github_dark" alt="Ali's top languages" />
-
-</div>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" />
