@@ -10,6 +10,12 @@
 
 I build full-stack products, automate delivery workflows, and explore practical security operations. I enjoy turning ideas into dependable software—and occasionally turning bugs into unexpected features.
 
+**Current focus**
+
+- Building responsive web applications with React, Next.js, and TypeScript
+- Designing APIs and data layers with Node.js, Express, PostgreSQL, and Prisma
+- Strengthening delivery and operations with containers, CI/CD, and security monitoring
+
 <br/>
 
 **Full-Stack Development**
