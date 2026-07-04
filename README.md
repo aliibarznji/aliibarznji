@@ -18,7 +18,7 @@ I build full-stack products, automate delivery workflows, and explore practical 
 
 <br/>
 
-**Full-Stack Development**
+### Full-Stack Development
 
 _Frontend_
 
@@ -40,14 +40,14 @@ _Backend_
 ![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=FFFFFF)
 ![JWT](https://img.shields.io/badge/JWT-0d1117?style=flat-square&logo=jsonwebtokens&logoColor=FFFFFF)
 
-**DevOps & Infrastructure**
+### DevOps & Infrastructure
 
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0d1117?style=flat-square&logo=githubactions&logoColor=2088FF)
 ![Jenkins](https://img.shields.io/badge/Jenkins-0d1117?style=flat-square&logo=jenkins&logoColor=D24939)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0d1117?style=flat-square&logo=kubernetes&logoColor=326CE5)
 
-**SOC Fundamentals**
+### SOC Fundamentals
 
 ![Security Monitoring](https://img.shields.io/badge/Security_Monitoring-0d1117?style=flat-square&logo=securityscorecard&logoColor=00D4FF)
 ![SIEM Basics](https://img.shields.io/badge/SIEM_Basics-0d1117?style=flat-square&logo=splunk&logoColor=65A637)
