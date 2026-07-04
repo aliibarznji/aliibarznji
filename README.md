@@ -6,6 +6,10 @@
 
 </div>
 
+### Hi, I'm Ali 👋
+
+I build full-stack products, automate delivery workflows, and explore practical security operations. I enjoy turning ideas into dependable software—and occasionally turning bugs into unexpected features.
+
 <br/>
 
 **Full-Stack Development**
