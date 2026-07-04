@@ -6,16 +6,6 @@
 
 </div>
 
-### Hi, I'm Ali 👋
-
-I build full-stack products, automate delivery workflows, and explore practical security operations. I enjoy turning ideas into dependable software—and occasionally turning bugs into unexpected features.
-
-**Current focus**
-
-- Building responsive web applications with React, Next.js, and TypeScript
-- Designing APIs and data layers with Node.js, Express, PostgreSQL, and Prisma
-- Strengthening delivery and operations with containers, CI/CD, and security monitoring
-
 <br/>
 
 ### Full-Stack Development
@@ -55,18 +45,5 @@ _Backend_
 ![Threat Detection](https://img.shields.io/badge/Threat_Detection-0d1117?style=flat-square&logo=virustotal&logoColor=394EFF)
 ![Incident Response](https://img.shields.io/badge/Incident_Response-0d1117?style=flat-square&logo=hackthebox&logoColor=9FEF00)
 ![Network Security](https://img.shields.io/badge/Network_Security-0d1117?style=flat-square&logo=wireshark&logoColor=1679A7)
-
-### Featured projects
-
-| Project | What it demonstrates |
-| --- | --- |
-| [ElecVendors](https://github.com/aliibarznji/ElecVendors) | A TypeScript dashboard for electronics vendors |
-| [Electro](https://github.com/aliibarznji/Electro) | A Next.js electronics storefront built with React and Tailwind CSS |
-| [Amazon](https://github.com/aliibarznji/Amazon) | An e-commerce clone built with Next.js, React, and TypeScript |
-| [ChatBot](https://github.com/aliibarznji/ChatBot) | A React conversation UI with small interactive utilities |
-
-<p align="center">
-  <a href="https://github.com/aliibarznji?tab=repositories"><strong>Explore all repositories →</strong></a>
-</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" alt="Dark gradient wave footer" />
