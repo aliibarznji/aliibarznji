@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=header" alt="Dark gradient wave header" />
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=720&lines=Ali;Full-stack;DevOps;SOC" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=4000&pause=1500&color=00D4FF&center=true&vCenter=true&width=720&lines=Ali;Full-stack;DevOps;SOC" alt="Ali — Full-stack, DevOps, and SOC" />
 
 </div>
 
@@ -65,4 +65,4 @@ _Backend_
 | [Amazon](https://github.com/aliibarznji/Amazon) | An e-commerce clone built with Next.js, React, and TypeScript |
 | [ChatBot](https://github.com/aliibarznji/ChatBot) | A React conversation UI with small interactive utilities |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" alt="Dark gradient wave footer" />
