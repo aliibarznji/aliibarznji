@@ -65,4 +65,8 @@ _Backend_
 | [Amazon](https://github.com/aliibarznji/Amazon) | An e-commerce clone built with Next.js, React, and TypeScript |
 | [ChatBot](https://github.com/aliibarznji/ChatBot) | A React conversation UI with small interactive utilities |
 
+<p align="center">
+  <a href="https://github.com/aliibarznji?tab=repositories"><strong>Explore all repositories →</strong></a>
+</p>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b4b,100:0d1117&height=100&section=footer" alt="Dark gradient wave footer" />
